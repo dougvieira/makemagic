@@ -57,11 +57,11 @@ Host: http://localhost:8080/api/characters
 ```
 
 
-### 5 - Consultando todos Personagens:
+### 5 - Consultando Personagem por ID:
 
 ```
 Método: GET
-Host: http://localhost:8080/api/characters
+Host: http://localhost:8080/api/characters/{id}
 ```
 
 ### 6 - Consultando Personagens de uma casa:
